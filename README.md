@@ -1,5 +1,5 @@
 # 📸 Best Free Tools for Instagram
-
+![image]([files/Users/jzhang/Desktop/Isolated.png](https://github.com/Generatortool/instagram-tools/blob/main/Free%20Instagram%20Tools%20to%20Help%20You%20Grow%20Your%20Account.jpg?raw=true))
 A curated list of the best free tools to enhance your Instagram experience. These tools can help you design, schedule, analyze, and optimize your Instagram content effectively. Whether you're a casual user, influencer, or business, these resources can streamline your workflow and boost your Instagram presence without breaking the bank.
 
 ## 🛠️ Tools List
